@@ -1,6 +1,6 @@
 # TradUrb Ecom Platform
 In order to run this project you must have stripe payment gateway public and secret key.
-The project uses GMAIL SMTP for sending mails
+The project uses GMAIL SMTP for sending mails for order confirmation
 
 So paste your gmail smtp credentials as well as stripe credentials in tradeurb/settings.py  
 
